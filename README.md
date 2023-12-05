@@ -1,2 +1,2 @@
 # Repo of Vladimir Tsarkov
-## Push to GitHub frok local Repo
+## Push to GitHub from local Repo
